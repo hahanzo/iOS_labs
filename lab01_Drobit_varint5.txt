@@ -1,4 +1,3 @@
-//Drobit Oleg IPZ 31/1
 //Variant 5
 
 struct Phone {
